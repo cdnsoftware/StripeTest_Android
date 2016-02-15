@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">StripeTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exitMessage">Are you sure you want exit application ? </string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Please wait we are communicating..</string>
+    <string name="network_error">Network Error !</string>
+
+    <string name="worng_email">Wrong email or password.</string>
+    <string name="fbloginSuccess"> Facebook login success. </string>
+    <string name="fbloginFail">Facebook login fail. </string>
+
+    <string name="fbloginError">Facebook login error. </string>
+    <string name="fbloginCancel">Facebook login cancel. </string>
+    <string name="emailExist">The User already exist. </string>
+    <string name="fb">1151493004875692</string>
+
+
+    <string name="nameRquared">Name Required</string>
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="invalidPassword">Invalid Password</string>
+    <string name="Signup">Sign up</string>
+    <string name="SignupCT">SIGN UP</string>
+    <string name="name">NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="paymentSuccess">Payment Success</string>
+
+
+    <string name="validationCard1">The card number that you entered is invalid</string>
+
+    <string name="validationCard2">The expiration date that you entered is invalid</string>
+
+    <string name="validationCard3">The CVC code that you entered is invalid</string>
+
+    <string name="validationCard4">The card details that you entered are invalid</string>
+
+    <string name="title_activity_product_list">Products</string>
+    <string name="title_activity_product_order">Order</string>
+    <string name="Products">Products</string>
+    <string name="Order">Order</string>
+    <string name="Your_name">YOUR NAME</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="card_long_no">The long number on your card</string>
+    <string name="nameDetail">your first and last name</string>
+    <string name="first_name">First Name</string>
+    <string name="Logout">Logout</string>
+
+
+    <string name="last_name">Last Name</string>
+    <string name="cvv">CVV</string>
+    <string name="security_code">The 3 o r4 digit security code on your card</string>
+    <string name="security_no">123</string>
+    <string name="expiration_date">EXIPIRATION DATE</string>
+    <string name="addressline1">ADDRESS LINE 1</string>
+    <string name="addressline2">ADDRESS LINE 2</string>
+    <string name="addressName1">Deoga Adamson st 57/34</string>
+    <string name="addressName2">Deoga Adamson st 60/34</string>
+    <string name="date">08/aug/2016</string>
+    <string name="city">CITY</string>
+    <string name="state">STATE</string>
+    <string name="citystate">NEWYORK</string>
+    <string name="zipcodeno">10066</string>
+    <string name="zipcode">ZIPCODE</string>
+    <string name="country">COUNTRY</string>
+    <string name="countryname">USA</string>
+    <string name="comment">COMMENT</string>
+    <string name="cardNumber">1234 5678 9012 2323</string>
+    <string name="pay">PAY $45</string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="title_activity_signin">Sign In</string>
+
+    <string name="emailNotConfigure">Email not configure in your facebook account .</string>
+    <string name="nameRequired">Name Required</string>
+    <string name="lastnameRequired">LastName Required</string>
+    <string name="cardNo_required">Invalid CardNO</string>
+    <string name="cvv_requried">Invalid Cvv</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_zip">Enter Zipcode</string>
+    <string name="enter_state">Enter State</string>
+    <string name="enter_country">Enter Country</string>
+
+
+</resources>
